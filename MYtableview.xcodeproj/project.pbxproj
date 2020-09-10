@@ -13,6 +13,7 @@
 		AB265269250A4ABB003AB180 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB265267250A4ABB003AB180 /* Main.storyboard */; };
 		AB26526B250A4ABC003AB180 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB26526A250A4ABC003AB180 /* Assets.xcassets */; };
 		AB26526E250A4ABC003AB180 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB26526C250A4ABC003AB180 /* LaunchScreen.storyboard */; };
+		AB265276250A5219003AB180 /* thingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB265275250A5219003AB180 /* thingCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AB26526A250A4ABC003AB180 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB26526D250A4ABC003AB180 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB26526F250A4ABC003AB180 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB265275250A5219003AB180 /* thingCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thingCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				AB265263250A4ABB003AB180 /* SceneDelegate.swift */,
 				AB265265250A4ABB003AB180 /* ViewController.swift */,
 				AB265267250A4ABB003AB180 /* Main.storyboard */,
+				AB265275250A5219003AB180 /* thingCell.swift */,
 				AB26526A250A4ABC003AB180 /* Assets.xcassets */,
 				AB26526C250A4ABC003AB180 /* LaunchScreen.storyboard */,
 				AB26526F250A4ABC003AB180 /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB265276250A5219003AB180 /* thingCell.swift in Sources */,
 				AB265266250A4ABB003AB180 /* ViewController.swift in Sources */,
 				AB265262250A4ABB003AB180 /* AppDelegate.swift in Sources */,
 				AB265264250A4ABB003AB180 /* SceneDelegate.swift in Sources */,
